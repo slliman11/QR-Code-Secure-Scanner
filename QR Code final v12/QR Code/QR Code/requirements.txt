@@ -1,0 +1,16 @@
+# Project required packages
+pypng
+pyqrcode
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn 
+scikit-learn
+joblib
+pyzbar
+opencv-python
+opencv-contrib-python
+customtkinter
+pyinstaller
+xgboost
